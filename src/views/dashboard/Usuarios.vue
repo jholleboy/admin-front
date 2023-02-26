@@ -148,7 +148,7 @@
         class="mr-2"
         @click="showItem(item)"
       >
-        show
+      mdi-eye
       </v-icon>
       <v-icon
         small
