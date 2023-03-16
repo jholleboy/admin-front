@@ -1,6 +1,6 @@
 # Projeto Admin-front
 Projeto desenvolvido por joseph C.  utilizando os sistemas Vuejs,Vuetify,Axios.<br>
-Consumindo API do Backand Admin-back,desenvolvido em PHP utlizando Fremework Laravel.
+Consumindo API do Backend Admin-back,desenvolvido em PHP utlizando Fremework Laravel.
 # Instalação 
 Caso não hajá pasta Node_modules executar o comando ```` NPM INSTALL````,Apos isso executar o comando<br> ````NPM RUN BUILD````,e ````NPM RUN SERVE````. <br>
 Se já existir á pasta Node_modules executar apenas o comando ````NPM RUN BUILD```` e ````NPM RUN SERVE````.
